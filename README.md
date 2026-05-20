@@ -14,7 +14,8 @@ honest signals over vanity metrics.
 **Also**
 
 - [**claude-code-handbook-ru**](https://github.com/sfrangulov/claude-code-handbook-ru) — a curated Russian-language handbook for Claude Code
-- Smaller utilities: n8n nodes, npm/CLI tools
+- [**n8n-nodes-docx-to-md**](https://github.com/sfrangulov/n8n-nodes-docx-to-md) — convert `.docx` to clean GitHub-flavored Markdown inside n8n workflows
+- Smaller utilities: npm/CLI tools
 
 I also build internal agent systems and developer tooling for production
 teams — that work stays under NDA.
