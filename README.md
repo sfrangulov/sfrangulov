@@ -22,4 +22,4 @@ teams — that work stays under NDA.
 
 And a live read on my npm portfolio:
 
-[![ephemeris](https://ephemeris-dev.vercel.app/badge.svg)](https://ephemeris-dev.vercel.app)
+[![ephemeris](https://ephemeris-dev.vercel.app/badge/sfrangulov)](https://ephemeris-dev.vercel.app/u/sfrangulov)
