@@ -5,6 +5,8 @@ Developer tooling for the Claude Code / AI-agent ecosystem — EN + RU.
 I build small, sharp tools that answer one question well, and I care about
 honest signals over vanity metrics.
 
+[![ephemeris portfolio](https://ephemeris-dev.vercel.app/badge.svg)](https://ephemeris-dev.vercel.app)
+
 **The graveyard trilogy** — one log parser, three audit signals:
 
 - [**skill-graveyard**](https://github.com/sfrangulov/skill-graveyard) — which Claude Code skills you *actually* use (dead installs, hallucinated invocations)
